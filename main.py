@@ -26,7 +26,7 @@ async def heh(ctx, count_heh = 5):
 async def password(ctx, f = 10):
     await ctx.send(pass_gen(f))
 
-bot.run("MTEyNDUxMDg0MTU0NzUyNjMwNw.Gpa0z4.WLDFlRrR5VRDS6VbXaphjOduRnguRSrYKou6fg")
+bot.run("IDK")
 
 
 # @client.event
